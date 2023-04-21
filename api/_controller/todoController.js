@@ -5,6 +5,7 @@ const { resData, currentTime, isEmpty } = require("../../util/lib");
 const moment = require("../../util/moment");
 
 //전체 row 갯수
+// 문법 참고잘하자
 const getTotal = async () => {
   // const getTotal = async function () {
   try {
